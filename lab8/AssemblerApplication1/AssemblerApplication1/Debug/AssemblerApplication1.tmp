@@ -1,0 +1,40 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\Максим Маріна\Desktop\MKs\AssemblerApplication1\AssemblerApplication1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Максим Маріна\Desktop\MKs\AssemblerApplication1\AssemblerApplication1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Максим Маріна\Desktop\MKs\AssemblerApplication1\AssemblerApplication1\Debug\AssemblerApplication1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerApplication1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerApplication1.map</FILE>
+  <FILE>AssemblerApplication1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>C:\Users\Максим Маріна\Desktop\MKs\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>21</LINE></reset>
+  <start><FILE>C:\Users\Максим Маріна\Desktop\MKs\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>35</LINE></start>
+  <algo1_setup><FILE>C:\Users\Максим Маріна\Desktop\MKs\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>47</LINE></algo1_setup>
+  <algo2_setup1><FILE>C:\Users\Максим Маріна\Desktop\MKs\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>80</LINE></algo2_setup1>
+  <algo1_inc1><FILE>C:\Users\Максим Маріна\Desktop\MKs\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>67</LINE></algo1_inc1>
+  <algo1_loop><FILE>C:\Users\Максим Маріна\Desktop\MKs\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>52</LINE></algo1_loop>
+  <is_end1><FILE>C:\Users\Максим Маріна\Desktop\MKs\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>59</LINE></is_end1>
+  <algo1_inc2><FILE>C:\Users\Максим Маріна\Desktop\MKs\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>63</LINE></algo1_inc2>
+  <algo2_inc1><FILE>C:\Users\Максим Маріна\Desktop\MKs\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>118</LINE></algo2_inc1>
+  <algo2_setup2><FILE>C:\Users\Максим Маріна\Desktop\MKs\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>85</LINE></algo2_setup2>
+  <algo2_loop><FILE>C:\Users\Максим Маріна\Desktop\MKs\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>92</LINE></algo2_loop>
+  <is_half2><FILE>C:\Users\Максим Маріна\Desktop\MKs\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>103</LINE></is_half2>
+  <is_end2><FILE>C:\Users\Максим Маріна\Desktop\MKs\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>109</LINE></is_end2>
+  <algo2_inc2><FILE>C:\Users\Максим Маріна\Desktop\MKs\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>114</LINE></algo2_inc2>
+ </LABELS>
+</ASSEMBLER_INFO>
